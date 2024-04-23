@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bash": "^0.0.1",
+    "require": "^2.4.20",
+    "underscore": "^1.13.6"
+  }
+}
